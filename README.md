@@ -11,3 +11,8 @@ Expo(React Native)練習用のリポジトリです。
 - create Instagram-like screen.  
   インスタグラム風の画面を作成しました。
 <img src="https://github.com/yuitnnn/practice-expo-app/blob/images/images/instagram-like.gif" alt="Instagram-like" title="Instagram-like" width="300">
+
+## Day4
+- create camera app.  
+  ImagePickerを利用して、カメラ・カメラロールを使用しました。
+<img src="https://github.com/yuitnnn/practice-expo-app/blob/images/images/cameraApp.gif" alt="Instagram-like" title="Instagram-like" width="300">
